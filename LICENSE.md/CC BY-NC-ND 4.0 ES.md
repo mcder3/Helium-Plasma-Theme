@@ -1,4 +1,4 @@
-# [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es "CC BY-NC-ND 4.0") **(Versión Español)**
+# [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es "CC BY-NC-ND 4.0")
 
 ## Usted es libre de:
 
