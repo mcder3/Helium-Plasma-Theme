@@ -1,3 +1,3 @@
-# Helium-Plasma-Theme
+# Helium Plasma Theme
 
 ### UNDER CONSTRUCTION / EN CONSTRUCCION
