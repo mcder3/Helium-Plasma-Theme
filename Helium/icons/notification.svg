@@ -9,13 +9,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
+   viewBox="0 0 32 32"
    id="svg"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="100%"
-   height="100%"
-   sodipodi:docname="notification.svgz">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="32"
+   height="32"
+   sodipodi:docname="notification.svg">
   <defs
      id="defs81">
     <style
@@ -98,14 +98,14 @@
      inkscape:pageopacity="0.11372549"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1029"
      id="namedview32"
      showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="33.188557"
-     inkscape:cy="35.13075"
+     inkscape:zoom="8"
+     inkscape:cx="-0.35651093"
+     inkscape:cy="-27.641501"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
      borderlayer="true"
@@ -114,15 +114,21 @@
      inkscape:snap-bbox="true"
      inkscape:showpageshadow="true"
      showborder="true"
-     inkscape:pagecheckerboard="true">
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid877" />
+       id="grid877"
+       originx="5"
+       originy="-22" />
   </sodipodi:namedview>
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="22-22-notification-empty"
-     transform="translate(22)">
+     transform="translate(27,32)">
     <g
        id="g827-8">
       <path
@@ -143,7 +149,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="22-22-notification-active"
-     transform="translate(44)">
+     transform="translate(49,32)">
     <path
        inkscape:connector-curvature="0"
        id="path2-3"
@@ -160,32 +166,32 @@
   </g>
   <path
      style="fill:#202020;fill-opacity:1"
-     d="m -5,20 2,2 h -4 z"
+     d="m 0,52 2,2 h -4 z"
      id="expander-bottom"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
      style="fill:#202020;fill-opacity:1"
-     d="m -5,18 2,-2 h -4 z"
+     d="M 0,50 2,48 H -2 Z"
      id="expander-top"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
      style="fill:#202020;fill-opacity:1"
-     d="m -4,19 2,2 v -4 z"
+     d="m 1,51 2,2 v -4 z"
      id="expander-right"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
      style="fill:#202020;fill-opacity:1"
-     d="m -6,19 -2,2 v -4 z"
+     d="m -1,51 -2,2 v -4 z"
      id="expander-left"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="notification-empty"
-     transform="translate(27,-32)">
+     transform="translate(32)">
     <g
        id="g827-81-6">
       <path
@@ -205,7 +211,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="notification-active"
-     transform="translate(91,-32)">
+     transform="translate(96)">
     <g
        id="g822">
       <path
@@ -230,7 +236,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="22-22-notification-progress-active"
-     transform="translate(66)">
+     transform="translate(71,32)">
     <g
        id="g824">
       <path
@@ -255,7 +261,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="22-22-notification-progress-inactive"
-     transform="translate(88)">
+     transform="translate(93,32)">
     <g
        id="g824-1">
       <path
@@ -275,7 +281,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="notification-progress-active"
-     transform="translate(123,-32)">
+     transform="translate(128)">
     <g
        id="g820">
       <path
@@ -301,7 +307,7 @@
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      id="notification-progress-inactive"
-     transform="translate(155,-32)">
+     transform="translate(160)">
     <g
        id="g820-7">
       <path
@@ -320,7 +326,8 @@
   </g>
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="22-22-notification-disabled">
+     id="22-22-notification-disabled"
+     transform="translate(5,32)">
     <g
        id="g827">
       <path
@@ -355,8 +362,7 @@
   </g>
   <g
      style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="notification-disabled"
-     transform="translate(-5,-32)">
+     id="notification-disabled">
     <g
        id="g827-81">
       <path
@@ -393,12 +399,12 @@
   </g>
   <g
      id="notification-inactive"
-     transform="translate(59,-32)">
+     transform="translate(64)">
     <path
        sodipodi:nodetypes="cccsssssssscssssscccssss"
        inkscape:connector-curvature="0"
        id="path2-30-9"
-       style="clip-rule:evenodd;fill:#202020;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;fill-opacity:1"
+       style="clip-rule:evenodd;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        d="m 21,23 -5,5 -5,-5 H 6 C 4.344,23 3,21.656 3,20 V 7 C 3,5.344 4.344,4 6,4 h 20 c 1.656,0 3,1.344 3,3 v 13 c 0,1.656 -1.344,3 -3,3 z M 26,5 H 6 C 4.896,5 4,5.896 4,7 v 13 c 0,1.104 0.896,2 2,2 h 5.414 L 16,26.586 20.586,22 H 26 c 1.104,0 2,-0.896 2,-2 V 7 C 28,5.896 27.104,5 26,5 Z" />
     <rect
        y="0"
@@ -420,7 +426,7 @@
   </g>
   <g
      id="22-22-notification-inactive"
-     transform="translate(110)">
+     transform="translate(115,32)">
     <path
        inkscape:connector-curvature="0"
        id="path2-1-6"
@@ -446,5 +452,162 @@
        id="rect965-6"
        d="m 12,6 v 7 h 4 V 6 Z m 1,1 h 2 v 5 h -2 z"
        style="opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93541437" />
+  </g>
+  <g
+     id="16-16-notification-disabled">
+    <g
+       transform="translate(5,54)"
+       id="g1035">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect995"
+         d="M 3,1 C 1.892,1 1,1.892 1,3 v 7 c 0,1.108 0.892,2 2,2 h 2 l 3,3 3,-3 h 2 c 1.108,0 2,-0.892 2,-2 V 3 C 15,1.892 14.108,1 13,1 Z m 0,1 h 10 c 0.554,0 1,0.4460001 1,1 v 7 c 0,0.554 -0.446,1 -1,1 H 10.585938 L 9.5859375,12 8,13.585938 6.4140625,12 l -1,-1 H 3 C 2.446,11 2,10.554 2,10 V 3 C 2,2.446 2.446,2 3,2 Z"
+         style="opacity:1;fill:#202020;fill-opacity:1;fill-rule:nonzero;stroke-width:1.03774905;stroke-linecap:butt;stroke-linejoin:bevel" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect1025"
+         d="m 4,4 h 8 V 5 H 4 Z"
+         style="opacity:1;fill:#202020;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:bevel" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect1029"
+         d="m 4,8 h 8 V 9 H 4 Z"
+         style="opacity:1;fill:#202020;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:bevel" />
+    </g>
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:0;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel"
+       id="rect1037"
+       width="16"
+       height="16"
+       x="5.000001"
+       y="54" />
+  </g>
+  <g
+     id="16-16-notification-active"
+     transform="translate(37,54)">
+    <g
+       id="g1035-6-9">
+      <path
+         style="opacity:1;fill:#202020;fill-opacity:1;fill-rule:nonzero;stroke-width:1.03774905;stroke-linecap:butt;stroke-linejoin:bevel"
+         d="M 3,1 C 1.892,1 1,1.892 1,3 v 7 c 0,1.108 0.892,2 2,2 h 2 l 3,3 3,-3 h 2 c 1.108,0 2,-0.892 2,-2 V 3 C 15,1.892 14.108,1 13,1 Z m 0,1 h 10 c 0.554,0 1,0.4460001 1,1 v 7 c 0,0.554 -0.446,1 -1,1 H 10.585938 L 9.5859375,12 8,13.585938 6.4140625,12 l -1,-1 H 3 C 2.446,11 2,10.554 2,10 V 3 C 2,2.446 2.446,2 3,2 Z"
+         id="rect995-7-1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect1037-6-2"
+       style="opacity:1;fill:#00ff00;fill-opacity:0;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel" />
+    <rect
+       ry="1"
+       y="3"
+       x="7"
+       height="5"
+       width="2"
+       id="rect957"
+       style="fill:#202020;fill-opacity:1;stroke-width:0.91287094" />
+    <circle
+       r="1"
+       cy="10"
+       cx="8"
+       id="path959"
+       style="fill:#202020;fill-opacity:1" />
+  </g>
+  <g
+     id="16-16-notification-inactive"
+     transform="translate(85,54)">
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="rect965-3"
+       d="m 4,3 v 7 H 7 V 3 Z M 5,4 H 6 V 9 H 5 Z"
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93541437" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="rect965-6-6"
+       d="m 9,3 v 7 h 3 V 3 Z m 1,1 h 1 v 5 h -1 z"
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93541437" />
+    <g
+       id="16-16-preferences-desktop-notification-3-0">
+      <g
+         id="g1035-6-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="rect995-7-2"
+           d="M 3,1 C 1.892,1 1,1.892 1,3 v 7 c 0,1.108 0.892,2 2,2 h 2 l 3,3 3,-3 h 2 c 1.108,0 2,-0.892 2,-2 V 3 C 15,1.892 14.108,1 13,1 Z m 0,1 h 10 c 0.554,0 1,0.4460001 1,1 v 7 c 0,0.554 -0.446,1 -1,1 H 10.585938 L 9.5859375,12 8,13.585938 6.4140625,12 l -1,-1 H 3 C 2.446,11 2,10.554 2,10 V 3 C 2,2.446 2.446,2 3,2 Z"
+           style="opacity:1;fill:#202020;fill-opacity:1;fill-rule:nonzero;stroke-width:1.03774905;stroke-linecap:butt;stroke-linejoin:bevel" />
+      </g>
+      <rect
+         style="opacity:1;fill:#00ff00;fill-opacity:0;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel"
+         id="rect1037-6-6"
+         width="16"
+         height="16"
+         x="0"
+         y="0" />
+    </g>
+  </g>
+  <g
+     id="16-16-notification-progress-active"
+     transform="translate(53,54)">
+    <path
+       id="rect1062"
+       d="M 4,5 C 2.338,5 1,6.338 1,8 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 8 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 H 4 C 2.892,10 2,9.108 2,8 2,6.892 2.892,6 4,6 Z"
+       style="clip-rule:evenodd;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke-width:1.09544516;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="clip-rule:evenodd;fill:#268aff;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="rect1064-2"
+       width="12"
+       height="4"
+       x="2"
+       y="6"
+       ry="2" />
+    <rect
+       ry="2"
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect1084"
+       style="fill:#ff00ff;fill-opacity:0" />
+  </g>
+  <g
+     id="16-16-notification-progress-inactive"
+     transform="translate(69,54)">
+    <path
+       id="rect1062-7"
+       d="M 4,5 C 2.338,5 1,6.338 1,8 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 8 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 H 4 C 2.892,10 2,9.108 2,8 2,6.892 2.892,6 4,6 Z"
+       style="clip-rule:evenodd;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke-width:1.09544516;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="2"
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect1084-9"
+       style="fill:#ff00ff;fill-opacity:0" />
+  </g>
+  <g
+     id="16-16-notification-empty"
+     transform="translate(21,54)">
+    <path
+       id="rect919"
+       d="M 3,1 C 1.892,1 1,1.892 1,3 v 10 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 3 C 15,1.892 14.108,1 13,1 Z m 0,1 h 10 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,14 2,13.554 2,13 V 3 C 2,2.446 2.446,2 3,2 Z"
+       style="fill:#202020;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="0"
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect924"
+       style="fill:#ffff00;fill-opacity:0" />
   </g>
 </svg>

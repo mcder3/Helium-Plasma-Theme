@@ -15,7 +15,7 @@
    height="32"
    viewBox="0 0 32 32"
    id="svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="video.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -27,12 +27,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1011"
      id="namedview13"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="9.4323953"
-     inkscape:cy="15.464608"
+     inkscape:zoom="16"
+     inkscape:cx="34.658378"
+     inkscape:cy="5.8594357"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,7 +45,8 @@
      fit-margin-bottom="0"
      inkscape:measure-start="8,25"
      inkscape:measure-end="8,10"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid2990"
@@ -187,7 +188,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -260,4 +261,25 @@
      height="32"
      x="42"
      y="6.2499995" />
+  <g
+     transform="translate(0,-3.4e-5)"
+     id="16-16-video-display-brightness">
+    <path
+       id="rect888"
+       d="m 33,17.000034 v 9 1 2 h 5 v 1 h -1 v 1 h 6 v -1 h -1 v -1 h 5 v -2 -1 -9 z m 1,1 h 12 v 8 H 34 Z m 0,9 h 12 v 1 h -4 -1 -2 -1 -4 z m 5,2 h 2 v 1 h -2 z"
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="16"
+       x="32"
+       height="16"
+       width="16"
+       id="rect902"
+       style="opacity:1;fill:#11ff00;fill-opacity:0;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path872"
+       d="m 40,19 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,1 v 4 a 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke-linecap:square"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
