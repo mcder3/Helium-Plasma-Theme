@@ -69,7 +69,7 @@
       </style>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#3c3c3c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -78,15 +78,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1009"
      id="namedview4155"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="4.0548156"
-     inkscape:cx="10.58368"
-     inkscape:cy="10.552346"
+     inkscape:zoom="2.828427"
+     inkscape:cx="40.234931"
+     inkscape:cy="10.021029"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -94,7 +94,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="false">
     <inkscape:grid
        type="xygrid"
        id="grid818" />
@@ -110,8 +111,9 @@
     <path
        inkscape:connector-curvature="0"
        id="path2"
-       style="fill:#202020"
-       d="M 12,6 V 5 c 0,-1.104 0.896,-2 2,-2 h 4 c 1.104,0 2,0.896 2,2 v 1 h 4 c 1.104,0 2,0.896 2,2 v 19 c 0,1.104 -0.896,2 -2,2 H 8 C 6.896,29 6,28.104 6,27 V 8 C 6,6.896 6.896,6 8,6 Z m 8,2 h 1 c 1.104,0 2,0.896 2,2 v 15 c 0,1.104 -0.896,2 -2,2 H 11 C 9.896,27 9,26.104 9,25 V 10 C 9,8.896 9.896,8 11,8 h 1 c 0,0 0,-1 0,-1 H 8 C 7.448,7 7,7.448 7,8 v 19 c 0,0.552 0.448,1 1,1 h 16 c 0.552,0 1,-0.448 1,-1 V 8 C 25,7.448 24.552,7 24,7 H 20 Z M 12.268,9 H 11 c -0.552,0 -1,0.448 -1,1 v 15 c 0,0.552 0.448,1 1,1 h 10 c 0.552,0 1,-0.448 1,-1 V 10 C 22,9.448 21.552,9 21,9 H 19.732 C 19.386,9.598 18.74,10 18,10 H 14 C 13.26,10 12.614,9.598 12.268,9 Z M 18,23 h 3 v 1 h -3 z m -3,-2 h 6 v 1 h -6 z m -4,-4 h 7 v 1 h -7 z m 0,-2 h 10 v 1 H 11 Z m 0,-2 h 10 v 1 H 11 Z m 0,-2 h 10 v 1 H 11 Z m 3,-7 c -0.552,0 -1,0.448 -1,1 v 3 c 0,0.552 0.448,1 1,1 h 4 c 0.552,0 1,-0.448 1,-1 0,0 0,-3 0,-3 0,-0.552 -0.448,-1 -1,-1 z" />
+       style="fill:#202020;fill-opacity:1"
+       d="M 12,6 V 5 c 0,-1.104 0.896,-2 2,-2 h 4 c 1.104,0 2,0.896 2,2 v 1 h 4 c 1.104,0 2,0.896 2,2 v 19 c 0,1.104 -0.896,2 -2,2 H 8 C 6.896,29 6,28.104 6,27 V 8 C 6,6.896 6.896,6 8,6 Z m 8,2 h 1 2 V 27 H 21 9 V 25 10 8 h 3 V 7 H 8 C 7.448,7 7,7.448 7,8 v 19 c 0,0.552 0.448,1 1,1 h 16 c 0.552,0 1,-0.448 1,-1 V 8 C 25,7.448 24.552,7 24,7 H 20 Z M 12.268,9 H 9.9999981 L 10,10 v 15 l -1.9e-6,1 H 21 22 l -2e-6,-16 0,-1 H 19.732 C 19.386,9.598 18.74,10 18,10 H 14 C 13.26,10 12.614,9.598 12.268,9 Z M 18,23 h 3 v 1 h -3 z m -3,-2 h 6 v 1 h -6 z m -4,-4 h 7 v 1 h -7 z m 0,-2 h 10 v 1 H 11 Z m 0,-2 h 10 v 1 H 11 Z m 0,-2 h 10 v 1 H 11 Z m 3,-7 c -0.552,0 -1,0.448 -1,1 v 3 c 0,0.552 0.448,1 1,1 h 4 c 0.552,0 1,-0.448 1,-1 V 5 C 19,4.448 18.552,4 18,4 Z"
+       sodipodi:nodetypes="csssscssssssssccccccccccccssssssssccccccccccccsscccccccccccccccccccccccccccccccsssssssss" />
     <rect
        y="0"
        x="0"
@@ -119,24 +121,6 @@
        width="32"
        id="rect817"
        style="fill:#ffffff;fill-opacity:0;stroke-width:1.04811275" />
-  </g>
-  <g
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="22-22-klipper"
-     transform="translate(32.000004,5)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path2-9"
-       style="fill:#202020"
-       d="M 8,4 C 8,2.896 8.896,2 10,2 h 2 c 1.104,0 2,0.896 2,2 h 2 c 1.104,0 2,0.896 2,2 v 12 c 0,1.104 -0.896,2 -2,2 H 6 C 4.896,20 4,19.104 4,18 V 6 C 4,4.896 4.896,4 6,4 Z m 6,1 c 0,1.104 -0.896,2 -2,2 H 10 C 8.896,7 8,6.104 8,5 H 6 C 5.448,5 5,5.448 5,6 v 12 c 0,0.552 0.448,1 1,1 h 10 c 0.552,0 1,-0.448 1,-1 V 6 C 17,5.448 16.552,5 16,5 Z m -8,9 h 5 v 1 H 6 Z m 0,-3 h 7 v 1 H 6 Z M 6,8 H 16 V 9 H 6 Z M 12,3 H 10 C 9.448,3 9,3.448 9,4 v 1 c 0,0.552 0.448,1 1,1 h 2 c 0.552,0 1,-0.448 1,-1 V 4 C 13,3.448 12.552,3 12,3 Z"
-       sodipodi:nodetypes="csscssssssssccsscssssssssccccccccccccccccsssssssss" />
-    <rect
-       y="0"
-       x="0"
-       height="22"
-       width="22"
-       id="rect817-1"
-       style="fill:#ffffff;fill-opacity:0;stroke-width:0.72782332" />
   </g>
   <g
      id="16-16-klipper"
@@ -153,5 +137,23 @@
        width="16"
        id="rect843"
        style="fill:#ffff00;fill-opacity:0" />
+  </g>
+  <g
+     transform="translate(32.000004,5.0000398)"
+     id="22-22-klipper">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect835-7"
+       d="m 7.999996,2.0000406 v 1 L 5,3.0000049 c -1.1079905,-1.32e-5 -2,0.8920095 -2,2 V 18.000005 c 0,1.10799 0.8920095,2 2,2 h 12 c 1.10799,0 2,-0.89201 2,-2 V 5.0000049 c 0,-1.1079905 -0.89201,-2 -2,-2 l -3.000004,3.57e-5 v -1 z m 1,1 h 4 L 13,4.0000049 v 1 l -4e-6,1.0000357 h -4 L 9,5.0000049 v -1 z M 5,4.0000049 h 3 v 1 l -3.000004,3.57e-5 V 18.000041 h 12 V 5.0000406 L 14,5.0000049 v -1 h 3 c 0.276991,0 0.526287,0.1122246 0.707031,0.2929688 C 17.887775,4.4737176 18,4.7230139 18,5.0000049 V 18.000005 c 0,0.276991 -0.112225,0.526287 -0.292969,0.707031 C 17.526287,18.88778 17.276991,19.000005 17,19.000005 H 6 c -0.276991,0 -1.5262873,-0.112225 -1.7070312,-0.292969 C 4.1122246,18.526292 4,18.276996 4,18.000005 V 5.0000049 C 4,4.7230139 4.1122246,4.4737176 4.2929688,4.2929737 4.4737127,4.1122295 4.723009,4.0000049 5,4.0000049 Z m 0.999996,2.0000349 2,8e-7 v 1 h 6 v -1 l 2,5e-7 V 17.000042 h -10 z m 1,3.0000008 v 1.0000004 l 8.000004,5e-6 -4e-6,-1.0000054 z m 0,2.9999994 v 1 h 6 v -1 z m 0,3.000001 v 1 h 4 v -1 z"
+       style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccssssssssccccccccccccsccccccccsssssssssscscccccccccccccccccccccccc" />
+    <rect
+       ry="2.99998"
+       y="-3.9808809e-05"
+       x="0"
+       height="22"
+       width="22"
+       id="rect896-6"
+       style="fill:#ffff00;fill-opacity:0;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

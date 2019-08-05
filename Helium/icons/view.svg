@@ -10,10 +10,10 @@
    version="1.1"
    id="svg2"
    viewBox="0 0 54 64"
-   sodipodi:docname="view.svgz"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   sodipodi:docname="view.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#3d3d3d"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -22,16 +22,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      id="namedview18"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="32.162697"
-     inkscape:cy="11.247475"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="4"
+     inkscape:cx="-38.453927"
+     inkscape:cy="15.087137"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827" />
+  </sodipodi:namedview>
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -40,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +110,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-8"
-       style="fill:#202020"
+       style="fill:#202020;fill-opacity:1"
        d="M 12,4 C 12,4 8.464,7.536 8.464,7.536 L 7.757,6.828 10.586,4 H 6 C 4.896,4 4,4.896 4,6 v 10 c 0,1.104 0.896,2 2,2 h 2 v 1 H 6 C 4.344,19 3,17.656 3,16 V 6 C 3,4.344 4.344,3 6,3 h 6 z M 11.414,18 H 16 c 1.104,0 2,-0.896 2,-2 V 6 C 18,4.896 17.104,4 16,4 H 14 V 3 h 2 c 1.656,0 3,1.344 3,3 v 10 c 0,1.656 -1.344,3 -3,3 h -6 v -1 c 0,0 3.536,-3.536 3.536,-3.536 l 0.707,0.708 z" />
     <rect
        y="0"
@@ -139,7 +145,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-3"
-       style="fill:#202020"
+       style="fill:#202020;fill-opacity:1"
        d="m 11,3 c 4.415,0 8,3.585 8,8 0,4.415 -3.585,8 -8,8 C 6.585,19 3,15.415 3,11 3,6.585 6.585,3 11,3 Z m 0,1 c 3.863,0 7,3.137 7,7 0,3.863 -3.137,7 -7,7 C 7.137,18 4,14.863 4,11 4,7.137 7.137,4 11,4 Z m -1,1 h 1 v 6 h 6 v 1 h -7 z"
        sodipodi:nodetypes="ssssssssssccccccc" />
     <rect
@@ -157,8 +163,9 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-89"
-       style="fill:#202020"
-       d="M 6,15 V 5 C 6,3.896 6.896,3 8,3 h 16 c 1.104,0 2,0.896 2,2 v 10 h 3 V 29 H 3 V 15 Z m 22,1 H 4 v 12 h 24 z m -9,6 h -6 c -1.104,0 -2,-0.896 -2,-2 0,-1.104 0.896,-2 2,-2 h 6 c 1.104,0 2,0.896 2,2 0,1.104 -0.896,2 -2,2 z m 0,-3 h -6 c -0.552,0 -1,0.448 -1,1 0,0.552 0.448,1 1,1 h 6 c 0.552,0 1,-0.448 1,-1 0,-0.552 -0.448,-1 -1,-1 z M 24,4 H 8 C 7.448,4 7,4.448 7,5 V 15 H 25 V 5 C 25,4.448 24.552,4 24,4 Z M 9,12 h 14 v 1 H 9 Z M 9,9 h 14 v 1 H 9 Z M 9,6 H 23 V 7 H 9 Z" />
+       style="fill:#202020;fill-opacity:1"
+       d="M 6,15 V 3 h 20 v 12 h 3 V 29 H 3 V 15 Z m 22,1 H 4 v 12 h 24 z m -9,6 h -6 c -1.104,0 -2,-0.896 -2,-2 0,-1.104 0.896,-2 2,-2 h 6 c 1.104,0 2,0.896 2,2 0,1.104 -0.896,2 -2,2 z m 0,-3 h -6 c -0.552,0 -1,0.448 -1,1 0,0.552 0.448,1 1,1 h 6 c 0.552,0 1,-0.448 1,-1 0,-0.552 -0.448,-1 -1,-1 z M 7,4 V 15 H 25 V 4 Z m 2,8 h 14 v 1 H 9 Z M 9,9 h 14 v 1 H 9 Z M 9,6 H 23 V 7 H 9 Z"
+       sodipodi:nodetypes="ccccccccccccccsssssssssssssscccccccccccccccccccc" />
     <rect
        ry="0.91472864"
        y="0"
