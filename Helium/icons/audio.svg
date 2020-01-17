@@ -13,11 +13,11 @@
    height="32"
    id="svg7229"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
    sodipodi:docname="audio.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   viewBox="0 0 32 32">
+   viewBox="0 0 32.000001 32">
   <defs
      id="defs7231">
     <style
@@ -99,9 +99,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-296.18421"
-     inkscape:cy="-61.262564"
+     inkscape:zoom="8"
+     inkscape:cx="-76.345746"
+     inkscape:cy="37.472826"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -119,7 +119,13 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid871"
+       originx="1.7480469e-07"
+       originy="68" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7234">
     <rdf:RDF>
@@ -292,7 +298,7 @@
     </g>
     <g
        id="16-16-audio-volume-high"
-       transform="translate(-0.999995)">
+       transform="translate(-0.99999523,4.5996094e-6)">
       <g
          transform="translate(5e-6)"
          id="g1006">
@@ -433,5 +439,12 @@
          id="rect1110"
          style="opacity:1;fill:#ff4d62;fill-opacity:1;fill-rule:evenodd" />
     </g>
+    <rect
+       style="opacity:1;fill:#d35f5f;fill-opacity:0;fill-rule:evenodd"
+       id="rect1008-1"
+       width="16"
+       height="16"
+       x="223.53572"
+       y="333.9191" />
   </g>
 </svg>

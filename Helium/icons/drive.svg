@@ -10,8 +10,8 @@
    version="1.1"
    id="svg2"
    viewBox="0 0 54 32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="drive.svgz">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="drive.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,16 +22,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      id="namedview15"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-18.487799"
-     inkscape:cy="18.298159"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="90.381175"
+     inkscape:cy="11.60986"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -40,7 +41,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -168,5 +169,167 @@
        width="16"
        id="rect817"
        style="fill:#ffffff;fill-opacity:0;stroke-width:1.00855625" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="drive-removable-media-usb-pendrive"
+     transform="translate(38,32)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2-6"
+       style="fill:#202020;fill-opacity:1"
+       d="M 21,29 H 11 C 9.344,29 8,27.656 8,26 V 10 h 16 v 16 c 0,1.656 -1.344,3 -3,3 z M 23,11 H 9 v 15 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 z M 21,10 H 20 V 4 h -8 v 6 H 11 V 3 H 21 Z M 19,8 H 17 V 5 h 2 z M 15,8 H 13 V 5 h 2 z"
+       sodipodi:nodetypes="sssccssccsssscccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect817-75"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86188805" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="22-22-drive-removable-media-usb-pendrive"
+     transform="translate(16,32)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#202020;fill-opacity:1"
+       id="path2-2-3"
+       d="M 14,8 V 3 H 8 V 8 H 7 V 2 h 8 v 6 h 2 v 10 c 0,1.104 -0.896,2 -2,2 H 7 C 5.896,20 5,19.104 5,18 V 8 Z m 2,1 H 6 v 9 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 z M 10,6 H 9 V 4 h 1 z m 3,0 H 12 V 4 h 1 z"
+       sodipodi:nodetypes="cccccccccssssccccssssccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-1"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.54634756" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-drive-removable-media-usb-pendrive"
+     transform="translate(0,32)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#202020;fill-opacity:1"
+       id="path2-23"
+       d="m 12,8 h 1 c 0.552,0 1,0.448 1,1 v 5 c 0,0.552 -0.448,1 -1,1 H 3 C 2.448,15 2,14.552 2,14 V 9 C 2,8.448 2.448,8 3,8 H 4 V 1 h 8 z m 1,1 H 3 v 5 H 13 Z M 11,8 V 2 H 5 V 8 Z M 7,6 H 6 V 3 h 1 z m 3,0 H 9 V 3 h 1 z"
+       sodipodi:nodetypes="csssssssscccccccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect817-7"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86204332" />
+  </g>
+  <g
+     transform="translate(38,-32)"
+     id="drive-removable-media-usb"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996">
+    <path
+       sodipodi:nodetypes="sssccssccsssscccccccccccccccccccc"
+       d="M 21,29 H 11 C 9.344,29 8,27.656 8,26 V 10 h 16 v 16 c 0,1.656 -1.344,3 -3,3 z M 23,11 H 9 v 15 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 z M 21,10 H 20 V 4 h -8 v 6 H 11 V 3 H 21 Z M 19,8 H 17 V 5 h 2 z M 15,8 H 13 V 5 h 2 z"
+       style="fill:#202020;fill-opacity:1"
+       id="path36"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86188805"
+       id="rect38"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     id="drive-removable-media"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     transform="translate(54)">
+    <path
+       sodipodi:nodetypes="sssccssccsssscccccccccccccccccccc"
+       d="M 21,29 H 11 C 9.344,29 8,27.656 8,26 V 10 h 16 v 16 c 0,1.656 -1.344,3 -3,3 z M 23,11 H 9 v 15 c 0,1.104 0.896,2 2,2 h 10 c 1.104,0 2,-0.896 2,-2 z M 21,10 H 20 V 4 h -8 v 6 H 11 V 3 H 21 Z M 19,8 H 17 V 5 h 2 z M 15,8 H 13 V 5 h 2 z"
+       style="fill:#202020;fill-opacity:1"
+       id="path36-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86188805"
+       id="rect38-7"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="22-22-drive-removable-media-usb"
+     transform="translate(16,-22)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#202020;fill-opacity:1"
+       id="path2-2-3-6"
+       d="M 14,8 V 3 H 8 V 8 H 7 V 2 h 8 v 6 h 2 v 10 c 0,1.104 -0.896,2 -2,2 H 7 C 5.896,20 5,19.104 5,18 V 8 Z m 2,1 H 6 v 9 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 z M 10,6 H 9 V 4 h 1 z m 3,0 H 12 V 4 h 1 z"
+       sodipodi:nodetypes="cccccccccssssccccssssccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-1-7"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.54634756" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-drive-removable-media-usb"
+     transform="translate(0,-16)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#202020;fill-opacity:1"
+       id="path2-23-3"
+       d="m 12,8 h 1 c 0.552,0 1,0.448 1,1 v 5 c 0,0.552 -0.448,1 -1,1 H 3 C 2.448,15 2,14.552 2,14 V 9 C 2,8.448 2.448,8 3,8 H 4 V 1 h 8 z m 1,1 H 3 v 5 H 13 Z M 11,8 V 2 H 5 V 8 Z M 7,6 H 6 V 3 h 1 z m 3,0 H 9 V 3 h 1 z"
+       sodipodi:nodetypes="csssssssscccccccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect817-7-5"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86204332" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="22-22-drive-removable-media"
+     transform="translate(102,10)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#202020;fill-opacity:1"
+       id="path2-2-3-2"
+       d="M 14,8 V 3 H 8 V 8 H 7 V 2 h 8 v 6 h 2 v 10 c 0,1.104 -0.896,2 -2,2 H 7 C 5.896,20 5,19.104 5,18 V 8 Z m 2,1 H 6 v 9 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 z M 10,6 H 9 V 4 h 1 z m 3,0 H 12 V 4 h 1 z"
+       sodipodi:nodetypes="cccccccccssssccccssssccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-1-9"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.54634756" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="16-16-drive-removable-media"
+     transform="translate(86,16)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#202020;fill-opacity:1"
+       id="path2-23-2"
+       d="m 12,8 h 1 c 0.552,0 1,0.448 1,1 v 5 c 0,0.552 -0.448,1 -1,1 H 3 C 2.448,15 2,14.552 2,14 V 9 C 2,8.448 2.448,8 3,8 H 4 V 1 h 8 z m 1,1 H 3 v 5 H 13 Z M 11,8 V 2 H 5 V 8 Z M 7,6 H 6 V 3 h 1 z m 3,0 H 9 V 3 h 1 z"
+       sodipodi:nodetypes="csssssssscccccccccccccccccccccccc" />
+    <rect
+       y="0"
+       x="0"
+       height="16"
+       width="16"
+       id="rect817-7-7"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.86204332" />
   </g>
 </svg>

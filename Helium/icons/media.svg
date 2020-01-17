@@ -13,7 +13,7 @@
    height="32"
    id="svg7229"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    version="1.0"
    sodipodi:docname="media.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape">
@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.13333333"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="45.317053"
-     inkscape:cy="-46.659991"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="195.48736"
+     inkscape:cy="60.175183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -909,6 +909,59 @@
          width="8.4666662"
          id="cubo-7"
          style="fill:#00ff00;fill-opacity:0;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;paint-order:markers stroke fill" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="22-22-media-mount"
+       transform="matrix(1,0,0,-1,412.53572,394.50504)">
+      <g
+         id="g824-6">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 19,12 H 3 L 11,3 Z M 5.227,11 H 16.773 L 11,4.505 Z"
+           style="color:#202020;fill:currentColor;fill-opacity:1;stroke:none"
+           id="path2-8-7"
+           class="ColorScheme-Text" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 19,14 v 4 H 3 v -4 z m -1,1 H 4 v 2 h 14 z"
+           style="color:#202020;fill:currentColor;fill-opacity:1;stroke:none"
+           id="path4-4-5"
+           class="ColorScheme-Text" />
+      </g>
+      <rect
+         y="0"
+         x="0"
+         height="22"
+         width="22"
+         id="rect826-3"
+         style="opacity:1;fill:#00ffff;fill-opacity:0;stroke-width:0.83967692;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
+    </g>
+    <g
+       id="media-mount"
+       transform="matrix(1,0,0,-1,256,821.01008)">
+      <rect
+         y="394.50504"
+         x="214.53572"
+         height="32"
+         width="32"
+         id="rect919-2-7-6"
+         style="opacity:1;fill:#ff4d62;fill-opacity:0;fill-rule:evenodd" />
+      <g
+         id="g1443-2">
+        <path
+           style="color:#202020;opacity:1;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke-width:1.02597833"
+           d="m 230.53572,401.09098 -11.41406,11.41406 h 1.41406 20 1.41406 z m 0,1.41406 9,9 h -18 z"
+           id="rect1419-9"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
+        <path
+           style="color:#202020;opacity:1;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke-width:1.02150786"
+           d="m 218.53572,414.50504 v 5 h 24 v -5 z m 1,1 h 22 v 3 h -22 z"
+           id="rect1436-1"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-Text" />
+      </g>
     </g>
   </g>
 </svg>
