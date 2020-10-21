@@ -7,35 +7,55 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="54"
-   height="32"
-   id="svg3613"
-   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="applications.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   version="1.1"
+   id="svg3613"
+   height="32"
+   width="54">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     id="namedview12"
-     showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="46.162842"
-     inkscape:cy="3.3716189"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:current-layer="svg3613"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3613">
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="9.5886944"
+     inkscape:cx="-9.8169337"
+     inkscape:zoom="5.656854"
+     showgrid="true"
+     id="namedview12"
+     inkscape:window-height="1009"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <inkscape:grid
-       type="xygrid"
-       id="grid818" />
+       enabled="true"
+       originy="1.5e-05"
+       originx="2e-06"
+       id="grid818"
+       type="xygrid" />
+    <inkscape:grid
+       originy="0"
+       originx="22"
+       enabled="false"
+       empspacing="2"
+       empopacity="0.25098039"
+       empcolor="#ff0000"
+       spacingy="0.5"
+       spacingx="0.5"
+       id="grid851"
+       type="xygrid" />
   </sodipodi:namedview>
   <metadata
      id="metadata13">
@@ -51,9 +71,16 @@
   </metadata>
   <defs
      id="defs3615">
+    <inkscape:perspective
+       id="perspective853"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 16 : 1"
+       sodipodi:type="inkscape:persp3d" />
     <style
-       type="text/css"
-       id="current-color-scheme">
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text {
         color:#31363b;
       }
@@ -87,38 +114,35 @@
 </style>
   </defs>
   <g
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="22-22-applications-other"
-     transform="translate(-2.071433e-6,10.000015)">
+     transform="translate(22)"
+     id="applications-other">
     <path
        inkscape:connector-curvature="0"
-       id="path2"
-       d="m 2,2 v 8 h 8 V 2 Z m 10,0 v 8 h 8 V 2 Z M 3,3 H 9 V 9 H 3 Z m 10,0 h 6 V 9 H 13 Z M 2,12 v 8 h 8 v -8 z m 13,0 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 V 15 H 17 V 12 Z M 3,13 h 6 v 6 H 3 Z"
-       style="fill:#202020" />
+       style="clip-rule:evenodd;fill:#202020;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;fill-opacity:1"
+       d="M 3,5 V 27 H 29 V 5 Z M 4,6 H 28 V 9 H 4 Z m 15,1 v 1 h 2 V 7 Z m 3,0 v 1 h 2 V 7 Z m 3,0 v 1 h 2 V 7 Z M 4,10 H 28 V 26 H 4 Z m 8,2 v 12 l 9,-6 z M 13,13.869141 19.197266,18 13,22.130859 Z"
+       id="path2-6-6" />
     <rect
-       y="0"
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:1.00212538;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="rect817-7"
+       width="32"
+       height="32"
        x="0"
-       height="22"
-       width="22"
-       id="rect824"
-       style="fill:#ffffff;fill-opacity:0;stroke-width:1.00855625" />
+       y="0" />
   </g>
   <g
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     id="applications-other"
-     transform="translate(21.999998,1.5e-5)">
+     transform="translate(0,10)"
+     id="22-22-applications-other">
     <path
        inkscape:connector-curvature="0"
-       id="path2-6"
-       style="fill:#202020"
-       d="M 3,27 3.000002,4.999985 29,5 V 27 Z M 28,10 H 4 l 2e-6,15.999985 h 24 z m -8,14 h -8 c -1.104,0 -2,-0.896 -2,-2 v -8 c 0,-1.104 0.896,-2 2,-2 h 8 c 1.104,0 2,0.896 2,2 v 8 c 0,1.104 -0.896,2 -2,2 z m 0,-11 h -8 c -0.552,0 -1,0.448 -1,1 v 8 c 0,0.552 0.448,1 1,1 h 8 c 0.552,0 1,-0.448 1,-1 v -8 c 0,-0.552 -0.448,-1 -1,-1 z m 4,1 v 8 H 23 V 14 Z M 9,14 v 8 H 8 v -8 z m 17,2 v 4 H 25 V 16 Z M 7,16 v 4 H 6 V 16 Z M 4.000002,5.999985 4,9 h 24 l 2e-6,-3.000015 z M 27,7 V 8 H 25 V 7 Z M 24,7 V 8 H 22 V 7 Z M 21,7 V 8 H 19 V 7 Z"
-       sodipodi:nodetypes="ccccccccccccsssssscssssssssscccccccccccccccccccccccccccccccccccccccc" />
+       style="clip-rule:evenodd;fill:#202020;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;fill-opacity:1"
+       d="M 2,2 V 4 5 20 H 20 V 5 4 2 Z M 3,3 H 19 V 4 H 3 Z M 3,5 H 19 V 19 H 3 Z m 6,3 v 8 l 6,-4 z M 10,9.8691406 13.197266,12 10,14.130859 Z"
+       id="path2-6-9" />
     <rect
-       y="0"
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.99173671;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="rect817-75-6"
+       width="22"
+       height="22"
        x="0"
-       height="32"
-       width="32"
-       id="rect817"
-       style="fill:#ffffff;fill-opacity:0;stroke-width:1.00212538" />
+       y="0" />
   </g>
 </svg>
